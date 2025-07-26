@@ -1,2 +1,2 @@
 hi I am smple file.
-This is my seconf line
+This is my seconf line.
